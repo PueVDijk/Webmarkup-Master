@@ -1,0 +1,16 @@
+body {
+    background-color: #F00F;
+}
+
+/* een element stylen op basis van het gekoppelde id */
+#mijnTitel {
+    color: yellow;
+}
+
+h2 {
+    color: blue;
+}
+
+p {
+    color: #0F0F0F;
+}
